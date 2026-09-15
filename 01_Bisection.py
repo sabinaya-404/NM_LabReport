@@ -7,7 +7,7 @@ The Bisection Method is a root-finding algorithm that repeatedly bisects an
 interval [a, b] where f(a) and f(b) have opposite signs, guaranteeing a root 
 by the Intermediate Value Theorem.
 
-QUESTION:
+QUESTION 2
 Find a real root of the non-linear equation f(x) = x^3 - 4x - 9 = 0, 
 correct to 3 decimal places using the Bisection Method.
 

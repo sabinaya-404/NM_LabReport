@@ -6,7 +6,7 @@ INTRODUCTION:
 The Regula-Falsi Method combines the bracketing safety of Bisection with linear 
 interpolation to approximate roots by connecting points with a secant line.
 
-QUESTION:
+QUESTION 1
 Find a real root of x^3 - x - 1 = 0 correct to 3 decimal places using the 
 Regula-Falsi Method.
 

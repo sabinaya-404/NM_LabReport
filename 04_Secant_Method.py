@@ -6,7 +6,7 @@ INTRODUCTION:
 The Secant Method approximates derivatives using finite differences between two 
 initial points, removing the need for an explicit analytical derivative.
 
-QUESTION:
+QUESTION 2:
 Find a root of f(x) = cos(x) - x * e^x = 0 correct to 4 decimal places using 
 the Secant Method.
 

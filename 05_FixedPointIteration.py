@@ -6,7 +6,7 @@ INTRODUCTION:
 Fixed Point Iteration reformulates f(x) = 0 into x = g(x), generating a sequence 
 x_{n+1} = g(x_n) that converges when |g'(x)| < 1.
 
-QUESTION:
+QUESTION 1
 Find a root of x^2 - 3x + 1 = 0 correct to 3 decimal places using Fixed Point Iteration.
 
 ALGORITHM:

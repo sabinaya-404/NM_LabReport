@@ -6,7 +6,7 @@ INTRODUCTION:
 The Newton-Raphson Method uses linear approximation via tangent lines to find 
 roots rapidly using the iterative derivative formula x_{n+1} = x_n - f(x_n)/f'(x_n).
 
-QUESTION:
+QUESTION 5
 Find a real root of the equation f(x) = x * e^x - 2 = 0 correct to 4 decimal 
 places using the Newton-Raphson Method.
 
